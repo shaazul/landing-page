@@ -19,7 +19,7 @@ body{
 .cta{background:var(--accent);color:#fff;padding:.5rem .8rem;border-radius:6px;text-decoration:none}
 .menu-btn{display:none;background:none;border:0;font-size:1.4rem}
 
-.hero{padding:4rem 0;background:linear-gradient(135deg, rgba(91,108,255,0.08), rgba(91,108,255,0.02))}
+.hero{padding:2rem 1rem;background:linear-gradient(135deg, rgba(91,108,255,0.08), rgba(91,108,255,0.02))}
 .hero-inner{text-align:center}
 .hero h1{font-size:clamp(1.5rem,3.5vw,2.4rem);margin-bottom:1rem}
 .btn{display:inline-block;background:var(--accent);color:#fff;padding:.75rem 1rem;border-radius:8px;text-decoration:none;margin-top:1rem}
@@ -29,7 +29,7 @@ body{
 
 .about,.contact{margin:2rem 0;padding:1rem;background:white;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,.03)}
 
-footer{padding:1rem 0;text-align:center;margin-top:2rem;color:#666}
+footer{padding:1rem 0;text-align:center;margin-top:2rem;color:lch(#444)}
 
 form{display:flex;gap:.5rem;align-items:center}
 form input[type="email"]{flex:1;padding:.6rem;border:1px solid #ddd;border-radius:6px}
